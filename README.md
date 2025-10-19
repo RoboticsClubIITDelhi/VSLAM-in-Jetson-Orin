@@ -178,7 +178,7 @@ This section too follows the [quickstart guide](https://nvidia-isaac-ros.github.
     fi
     ```
 
-2. Clone this repository under ${ISAAC_ROS_WS}/src:
+2. Clone this repository under `${ISAAC_ROS_WS}/src`:
     ```shell
     cd ${ISAAC_ROS_WS}/src && \
     git clone -b release-3.2 https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam.git isaac_ros_visual_slam
